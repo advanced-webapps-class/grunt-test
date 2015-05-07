@@ -1,0 +1,23 @@
+{
+  "name": "grunt-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/advanced-webapps-class/grunt-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/advanced-webapps-class/grunt-test/issues"
+  },
+  "homepage": "https://github.com/advanced-webapps-class/grunt-test",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}
